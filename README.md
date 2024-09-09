@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 👋 Hi, I’m Adeel Haider
 👋 Hi, I’m Adeel Haider<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact: I love Video Games
 
 
