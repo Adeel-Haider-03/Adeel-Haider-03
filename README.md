@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adeel-Haider-03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel-Haider-03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Adeel-Haider-03&theme=dark" alt="GitHub Streak" /></a>  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adeel-Haider-03&theme=dark)](https://git.io/streak-stats)  
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adeel-Haider-03&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
